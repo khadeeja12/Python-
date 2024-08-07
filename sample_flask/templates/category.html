@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>category</title>
+</head>
+<body><center><h1>CATEGORY </h1>
+
+<form method="post">
+	<table>
+		<tr>
+			<th>Category name</th>
+			<td><input type="text" name="catname"></td>
+		</tr>
+		<tr>
+			<th>Description</th>
+			<td><input type="text" name="catdesc"></td>
+		</tr>
+		<tr>
+			<th><input type="submit" name="add" value="add"></th>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<th>#</th>
+			<th>Category Name</th>
+			<th>Category desc</th>
+		</tr>
+		{% for i in data['cat'] %}
+		<tr>
+			<td>{{loop.index}}</td>
+			<td>{{i['category_name']}}</td>
+			<td>{{i['category_description']}}</td>
+		</tr>
+		{% endfor %}
+	</table>
+</form></center>
+</body>
+</html>
