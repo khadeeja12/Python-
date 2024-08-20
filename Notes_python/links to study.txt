@@ -1,0 +1,7 @@
+https://docs.python.org/3/tutorial/index.html
+
+
+https://peps.python.org/pep-0008/#source-file-encoding
+
+
+https://colab.research.google.com/drive/14tjM7Vw-nm3K8ZGequKHnxYywGBbBlIZ?usp=sharing
