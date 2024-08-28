@@ -1,6 +1,7 @@
 # Python-
 <h1>Explore the features of python and learn the key points at a glance</h1>
 
+if we want more libraries, go to pypi.org website
 
 <h2>"𝐏𝐲𝐭𝐡𝐨𝐧: 𝐖𝐡𝐞𝐫𝐞 𝐂𝐨𝐝𝐞 𝐌𝐞𝐞𝐭𝐬 𝐂𝐨𝐦𝐞𝐝𝐲!</h2>
 
